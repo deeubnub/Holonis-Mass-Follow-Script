@@ -1,0 +1,1 @@
+var inputs = document.getElementsByClassName('btn btn-follow-follower'); for(var i=0; i<inputs.length;i++) { inputs[i].click(); }
