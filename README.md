@@ -1,7 +1,7 @@
 # Holonis Mass Follow Script
  
 ## DISCLAIMER:
-I am not responsible for the clousure or deletion of your account. This script is for learning purposes and should only be used in that way. Be aware that follow script like this may be in violation of Holonis' terms of service.
+I am not responsible for the clousure or deletion of your account. This script is for learning purposes only, and should not be used in any other way. Be aware that follow scripts like this may be in violation of Holonis' terms of service.
 
 ## About
 This script will search for and click all elements with the "btn btn-follow-follower" class name, which can only be found in users that you are not following (look for the "follow" button next to someone's name). In other words, this script will click all loaded "follow" buttons on a page, and stop when there are no more "follow" buttons.
