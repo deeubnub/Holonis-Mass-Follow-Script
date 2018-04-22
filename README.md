@@ -18,7 +18,8 @@ Google Chrome, or any browser with access to the javascript console.
 Copy the script below:
 
 ```
-var inputs = document.getElementsByClassName('btn btn-follow-follower'); for(var i=0; i<inputs.length;i++) { inputs[i].click(); }
+var inputs = document.querySelectorAll("button.btn-follow-follower:not(.following)"); 
+for(var i=0; i<inputs.length;i++) { inputs[i].click(); }
 ```
 
 ### Step 2: 
