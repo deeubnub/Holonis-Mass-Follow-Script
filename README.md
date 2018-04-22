@@ -1,6 +1,6 @@
 # Holonis Mass Follow Script
  
-## DISCLAIMER:
+## Disclaimer:
 I am not responsible for the clousure or deletion of your account. This script is for learning purposes only, and should not be used in any other way. Be aware that follow scripts like this may be in violation of Holonis' terms of service.
 
 ## About
@@ -22,13 +22,13 @@ var inputs = document.getElementsByClassName('btn btn-follow-follower'); for(var
 ```
 
 ### Step 2: 
-Go to a page on Holonis that has many follow buttons (going to someone's followers, or following page will load many users at once)
+Go to a page on Holonis.com that contains one or more follow buttons (going to someone's followers page will load many users at once)
 
 ### Step 3: 
 Press F12 (on Chrome) to access developer tools, and if you are not on the console page already, find the tab that says console and click it
 
 ### Step 4: 
-Paste the script into the console and hit enter on your keyboard, the script will quickly follow everyone on the page that is loaded (remeber, this looks very obvious to the Holonis team).
+Paste the script into the console and hit enter on your keyboard, the script will quickly follow everyone on the page that is loaded (remember, this looks very obvious to the Holonis team).
 
 ## Closing Note
 Once again, I am not responsible for any consequences that may come to your account. Holonis have made it public and clear that scripts like these are very obvious to developers because of the shear volume of follows done in such a short succession of time. The intent of me posting this is for others to learn how easy a mass follow script can be to create and use. Thank you!
