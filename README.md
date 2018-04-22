@@ -1,18 +1,19 @@
 # Holonis Mass Follow Script
  
-# DISCLAIMER:
+## DISCLAIMER:
 ### I AM NOT RESPONSIBLE FOR THE CLOSURE OR DELETION OF YOUR ACCOUNT, THIS SCRIPT IS FOR LEARNING PURPOSES, USE AT YOUR OWN DESCRETION. FOLLOW SCRIPTS LIKE THIS ONE AND OTHER FORMS OF BOTS MAY VIOLATE HOLONIS' TERMS OF SERVICE.
 
-# About
+## About
 This script will search for and click all elements with the "btn btn-follow-follower" class name, which can only be found through users that you are not following (look for the "follow" button next to anyone's name). In other words, this script will click every and all loaded "follow" buttons on a page and then stop.
 
 This javascript is derived from a Twitter mass follow script found at: 
 https://www.warriorforum.com/social-media/932506-twitter-mass-follow-javascript-code.html
 - Full credit goes to darkc0de1 for the original Twitter Mass Follow script
 
-# How to use:
-## Requirements: Google Chrome, or any browser with access to the javascript console.
+## Requirements: 
+Google Chrome, or any browser with access to the javascript console.
 
+## How to use:
 ### Step 1: 
 Copy the script below:
 
